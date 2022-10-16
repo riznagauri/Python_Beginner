@@ -7,9 +7,6 @@ lasagna and the number of minutes the lasagna has been baking in the oven,
 find the total elapsed cooking time (prep + bake) in minutes.
 """
 
-from re import M
-
-
 num_of_layers = int(input('Enter number of layers: '))
 baked_time = int(input('Enter the already baked time: '))
 
